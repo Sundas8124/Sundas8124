@@ -16,3 +16,7 @@
 
 ### 📌 Featured Projects:
 - 🔒 Network Intrusion Detection Dashboard
+- WiFi Deauthentication Defense System with Auto Channel Hopping
+- Encryption & Decryption Application
+- Freshfold Load Management System (Web Project)
+- Secure Shell (Web App with chat bot)
