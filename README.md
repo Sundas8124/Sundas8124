@@ -15,7 +15,7 @@
 - 🌐 Burp Suite, OWASP ZAP
 
 ### 📌 Featured Projects:
-- 🔒 Network Intrusion Detection Dashboard
+- Network Intrusion Detection Dashboard
 - WiFi Deauthentication Defense System with Auto Channel Hopping
 - Encryption & Decryption Application
 - Freshfold Load Management System (Web Project)
